@@ -30,11 +30,47 @@ FULL STACK • CREATIVE WEB • 3D • AI
 
 👋 Hey, I'm Amit
 
-I'm a Full Stack Web Developer who enjoys building things that are fast, modern, interactive and visually different.
+IDENTITY // ASHOK KUMAR
 
-I work across the stack — from polished frontend experiences to backend APIs, databases and production deployment.
+I'm Ashok Kumar, professionally known as Amit / Amit Web Developer.
 
-Currently building: modern full-stack web experiences.
+I'm a Full Stack Web Developer and Python developer who enjoys building things that are fast, modern, interactive and visually different.
+
+I work across the complete stack — from polished frontend interfaces and animations to backend APIs, databases, deployment and SEO.
+
+DEVELOPER PROFILE
+
+🚀 75+ projects built across web development and creative experiments
+
+💻 Full Stack Web Developer
+
+🐍 Python Developer
+
+⚛️ Experienced with React, Vite and modern frontend development
+
+🟢 Build backend applications with Node.js & Express.js
+
+🗄️ Work with MongoDB and database-driven applications
+
+🌌 Interested in Three.js, 3D web experiences and interactive UI
+
+🎨 Enjoy creating futuristic, dark and modern interfaces
+
+🔧 Work with Git, GitHub, VS Code, Vercel and Netlify
+
+🔍 Interested in SEO, performance and production deployment
+
+🤖 Explore AI-powered web experiences and experimental projects
+
+🌐 Building and shipping real-world projects instead of just tutorials
+
+CURRENT MISSION
+
+Turn ideas into useful, beautiful and deployable digital products.
+
+Currently building: modern full-stack web experiences and exploring new ways to combine technology, creativity and interactive design.
+
+Open to: Job Opportunities · Full Stack Roles · Freelance Projects · Collaborations
 
 </td>
 <td width="48%" valign="top">
