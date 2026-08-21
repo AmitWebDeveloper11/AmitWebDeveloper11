@@ -1,449 +1,268 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=230&section=header&text=AMIT%20WEB%20DEVELOPER&fontSize=43&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=FULL%20STACK%20WEB%20DEVELOPER%20%7C%20PYTHON%20DEVELOPER&descAlignY=57&descSize=17" width="100%"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=2800&pause=900&color=B967FF&center=true&vCenter=true&width=850&lines=FULL+STACK+WEB+DEVELOPER+%E2%9A%A1;PYTHON+DEVELOPER+%F0%9F%90%8D;REACT+%2B+NODE.JS+%2B+MONGODB+%F0%9F%94%A5;THREE.JS+%2B+3D+WEB+EXPERIENCES+%F0%9F%8C%8C;75%2B+PROJECTS+BUILT+%F0%9F%9A%80;BUILDING+THE+FUTURE+OF+THE+WEB+%F0%9F%8C%90" alt="Typing SVG"/>
-
-<br/><br/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0014,50:2a0b45,100:08000f&height=240&section=header&text=Amit%20Web%20Developer&fontSize=46&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Python%20%7C%20Creative%20Web%20Experiences&descAlignY=58&descSize=17" width="100%"/>
 
 <a href="https://amitpandeysite.com">
-<img src="https://img.shields.io/badge/%F0%9F%9F%A2%20OPEN%20TO%20WORK-b967ff?style=for-the-badge&labelColor=080014&logoColor=white" alt="Open To Work"/>
+<img src="https://img.shields.io/badge/%E2%97%89%20OPEN%20TO%20WORK-9D4EDD?style=for-the-badge&labelColor=0B0612&logoColor=white" alt="Open to Work"/>
+</a>
+
+  
+
+<a href="https://amitpandeysite.com">
+<img src="https://img.shields.io/badge/%E2%9C%A6%20PORTFOLIO-6C2BD9?style=for-the-badge&labelColor=0B0612" alt="Portfolio"/>
 </a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=AmitWebDeveloper11&label=PROFILE%20VISITORS&color=b967ff&style=for-the-badge" alt="Profile Views"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=3000&pause=1000&color=C77DFF&center=true&vCenter=true&width=780&lines=Full+Stack+Web+Developer;Python+Developer;React+%2B+Node.js+%2B+MongoDB;Three.js+%2B+Interactive+Experiences;75%2B+Projects+Built;Turning+Ideas+Into+Digital+Experiences" alt="Typing SVG"/>
 
 </div>
+
+<br/>
+
+<table align="center">
+<tr>
+<td width="50%" valign="top">
+
+01 / PROFILE
+
+Amit — Full Stack Web Developer focused on building modern, interactive and production-ready web experiences.
+
+I enjoy working across the full stack — from polished interfaces and animations to APIs, databases and deployment.
+
+</td>
+<td width="50%" valign="top">
+
+02 / QUICK SIGNAL
+
+┌──────────────────────────┐
+│ STATUS     ● ONLINE      │
+│ PROJECTS   75+           │
+│ FOCUS      FULL STACK    │
+│ BUILD      WEB / 3D / AI │
+│ MODE       SHIP IT       │
+└──────────────────────────┘
+
+</td>
+</tr>
+</table>
+
+ABOUT
+
+I build things that look good, feel fast and actually work.
+
+My work combines full-stack engineering, creative UI, interactive experiences and modern web technologies. I like taking an idea from a rough concept to a deployed product.
+
+What I Build
+
+Full Stack Apps · Modern Websites · Interactive UI · 3D Web · APIs · Dashboards · Browser Games · AI Experiments
+
+TECH STACK
 
 <div align="center">
 
-╔══════════════════════════════════════════════════════════════╗
-║                                                              ║
-║     > INITIALIZING AMIT.DEV SYSTEM...                       ║
-║                                                              ║
-║     STATUS        : ONLINE                                   ║
-║     MODE          : BUILDING                                 ║
-║     PROJECTS      : 75+                                      ║
-║     SPECIALITY    : FULL STACK DEVELOPMENT                   ║
-║     ENVIRONMENT   : WEB                                      ║
-║     MISSION       : BUILD • CREATE • DEPLOY                  ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
+LANGUAGES
 
-</div>
-
-🧠 WHO_AM_I
-
-const AmitWebDeveloper11 = {
-
-    name: "Amit",
-    username: "AmitWebDeveloper11",
-
-    title: "Full Stack Web Developer",
-
-    status: "Building & Shipping 🚀",
-
-    languages: [
-        "Python",
-        "JavaScript",
-        "TypeScript",
-        "HTML",
-        "CSS"
-    ],
-
-    frontend: [
-        "React",
-        "Vite",
-        "Tailwind CSS",
-        "GSAP",
-        "Three.js"
-    ],
-
-    backend: [
-        "Node.js",
-        "Express.js"
-    ],
-
-    database: [
-        "MongoDB"
-    ],
-
-    tools: [
-        "Git",
-        "GitHub",
-        "VS Code",
-        "Vercel",
-        "Netlify"
-    ],
-
-    projectsBuilt: "75+",
-
-    interests: [
-        "Full Stack Development",
-        "Creative Web Experiences",
-        "3D Web Development",
-        "Interactive UI",
-        "AI-Powered Web Apps",
-        "Modern Web Technologies"
-    ],
-
-    currentlyBuilding:
-        "Modern full-stack web experiences",
-
-    openTo: [
-        "Job Opportunities",
-        "Full Stack Roles",
-        "Freelance Projects",
-        "Collaborations"
-    ]
-};
-
-⚡ ABOUT_ME.EXE
-
-Hey! I'm Amit — a passionate Full Stack Web Developer focused on creating modern, interactive and visually impressive digital experiences.
-
-I enjoy working across the complete development lifecycle — from UI/UX and frontend architecture to backend APIs, databases and deployment.
-
-I've built 75+ projects across websites, full-stack applications, interactive experiences, browser games, APIs, dashboards and experimental web technologies.
-
-SYSTEM CAPABILITIES
-
-╭────────────────────────────────────────────────────────────╮
-│                                                            │
-│  🌐  FULL STACK WEB DEVELOPMENT                            │
-│  ⚛️  REACT APPLICATIONS                                    │
-│  🟢  NODE.JS BACKEND                                       │
-│  🗄️  MONGODB DATABASES                                    │
-│  🐍  PYTHON DEVELOPMENT                                    │
-│  🌌  THREE.JS / 3D WEB                                     │
-│  🎨  MODERN UI / UX                                        │
-│  ⚡  PERFORMANCE OPTIMIZATION                              │
-│  🔌  REST APIs                                             │
-│  🚀  VERCEL / NETLIFY DEPLOYMENT                           │
-│  🔍  SEO & WEB OPTIMIZATION                                │
-│  🤖  AI / WEB EXPERIMENTS                                  │
-│                                                            │
-╰────────────────────────────────────────────────────────────╯
-
-🛠️ TECH_STACK
-
-💻 LANGUAGES
-
-<p align="center">
 <img src="https://skillicons.dev/icons?i=python,js,ts,html,css&theme=dark" />
-</p>
 
-⚛️ FRONTEND
+<br/><br/>
 
-<p align="center">
+FRONTEND
+
 <img src="https://skillicons.dev/icons?i=react,vite,tailwind,threejs&theme=dark" />
-</p>
 
-🖥️ BACKEND + DATABASE
+<br/><br/>
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb&theme=dark" />
-</p>
+BACKEND · DATABASE · TOOLS
 
-🔧 TOOLS + PLATFORMS
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,netlify&theme=dark" />
-</p>
-
-🌌 TOP_05_PROJECTS
-
-<div align="center">
-
-01 // COSMOS NEXUS
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=80&section=header&text=COSMOS%20NEXUS&fontSize=30&fontColor=ffffff&animation=twinkling" width="100%"/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,git,github,vscode,vercel,netlify&theme=dark" />
 
 </div>
 
-A futuristic and immersive web experience inspired by space, cosmos and next-generation digital interfaces.
-
-╭────────────────────────────────────────────────────────────╮
-│  🌌 FUTURISTIC SPACE UI                                   │
-│  ✨ IMMERSIVE VISUAL EXPERIENCE                            │
-│  🎨 CREATIVE ANIMATIONS                                    │
-│  🌐 RESPONSIVE INTERFACE                                   │
-│  ⚡ MODERN WEB EXPERIENCE                                   │
-╰────────────────────────────────────────────────────────────╯
-
-STACK
-
-Interactive UI Modern Web Creative Development
+FEATURED WORK
 
 <div align="center">
+
+🌌 COSMOS NEXUS
+
+A futuristic cosmic web experience
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:12001f,100:5a189a&height=5&section=header" width="90%"/>
+
+Futuristic UI Interactive Experience Modern Web
+
+<br/>
+
 <a href="https://tanstack-start-app.ak253-com.workers.dev/">
-<img src="https://img.shields.io/badge/%F0%9F%9A%80%20LIVE%20PREVIEW-b967ff?style=for-the-badge&labelColor=080014" />
+<img src="https://img.shields.io/badge/%E2%86%92%20LIVE%20DEMO-9D4EDD?style=for-the-badge&labelColor=10051A" />
 </a>
-</div>
 
-<div align="center">
+<br/><br/><br/>
 
-02 // INTERNET PLUS
+🌐 INTERNET PLUS
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=80&section=header&text=INTERNET%20PLUS&fontSize=30&fontColor=ffffff&animation=twinkling" width="100%"/>
+The Live Map of the Internet
 
-</div>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00152b,100:0077b6&height=5&section=header" width="90%"/>
 
-The Live Map of the Internet — a futuristic visualization concept representing the internet as a living global network.
+Three.js 3D Globe Network Visualization Data Experience
 
-╭────────────────────────────────────────────────────────────╮
-│  🌍 INTERACTIVE 3D GLOBE                                   │
-│  📡 GLOBAL NETWORK VISUALIZATION                           │
-│  🔗 ANIMATED CONNECTIONS                                   │
-│  📊 DATA FLOW VISUALIZATION                                │
-│  🌐 GLOBAL NETWORK CONCEPT                                  │
-│  🌌 IMMERSIVE EXPERIENCE                                    │
-╰────────────────────────────────────────────────────────────╯
+<br/>
 
-STACK
-
-Three.js React 3D Web Data Visualization
-
-<div align="center">
 <a href="https://inplus.vercel.app/">
-<img src="https://img.shields.io/badge/%F0%9F%8C%90%20LIVE%20PREVIEW-00d9ff?style=for-the-badge&labelColor=050b18" />
+<img src="https://img.shields.io/badge/%E2%86%92%20LIVE%20DEMO-00B4D8?style=for-the-badge&labelColor=03131F" />
 </a>
-</div>
 
-<div align="center">
+<br/><br/><br/>
 
-03 // DARK COMMUNITY
+🌑 DARK COMMUNITY
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=80&section=header&text=DARK%20COMMUNITY&fontSize=30&fontColor=ffffff&animation=twinkling" width="100%"/>
+A futuristic community platform
 
-</div>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:180018,100:9D174D&height=5&section=header" width="90%"/>
 
-A futuristic community platform built around a dark-themed digital ecosystem.
+Community Platform Dark UI Full Stack Interactive Web
 
-╭────────────────────────────────────────────────────────────╮
-│  🌑 DARK FUTURISTIC INTERFACE                              │
-│  👥 COMMUNITY PLATFORM                                     │
-│  🔐 USER-FOCUSED EXPERIENCE                                │
-│  🎨 MODERN INTERACTIVE UI                                  │
-│  ⚡ RESPONSIVE EXPERIENCE                                   │
-╰────────────────────────────────────────────────────────────╯
+<br/>
 
-STACK
-
-Full Stack Community Platform Modern UI
-
-<div align="center">
 <a href="https://dark-community.onrender.com/">
-<img src="https://img.shields.io/badge/%F0%9F%8C%91%20LIVE%20PREVIEW-ff00cc?style=for-the-badge&labelColor=120012" />
+<img src="https://img.shields.io/badge/%E2%86%92%20LIVE%20DEMO-F72585?style=for-the-badge&labelColor=190013" />
 </a>
-</div>
 
-<div align="center">
+<br/><br/><br/>
 
-04 // ROOVEXA
+🚗 ROOVEXA
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=80&section=header&text=ROOVEXA&fontSize=30&fontColor=ffffff&animation=twinkling" width="100%"/>
+A premium automotive web experience
 
-</div>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:001a12,100:00b86b&height=5&section=header" width="90%"/>
 
-A premium automotive-focused web experience designed around a modern, futuristic and interactive interface.
+Automotive Premium UI Responsive Modern Web
 
-╭────────────────────────────────────────────────────────────╮
-│  🚘 AUTOMOTIVE EXPERIENCE                                  │
-│  🎨 PREMIUM UI                                             │
-│  ⚡ SMOOTH INTERACTIONS                                     │
-│  📱 RESPONSIVE DESIGN                                      │
-│  🌐 MODERN WEB ARCHITECTURE                                │
-╰────────────────────────────────────────────────────────────╯
+<br/>
 
-STACK
-
-React JavaScript Modern UI Web Development
-
-<div align="center">
 <a href="https://roovexa.netlify.app/">
-<img src="https://img.shields.io/badge/%F0%9F%9A%97%20LIVE%20PREVIEW-00ff88?style=for-the-badge&labelColor=00140d" />
+<img src="https://img.shields.io/badge/%E2%86%92%20LIVE%20DEMO-00D084?style=for-the-badge&labelColor=03140E" />
 </a>
-</div>
 
-<div align="center">
+<br/><br/><br/>
 
-05 // MERN BLOG
+📝 MERN BLOG
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=80&section=header&text=MERN%20BLOG&fontSize=30&fontColor=ffffff&animation=twinkling" width="100%"/>
+A complete MERN stack blogging platform
 
-</div>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:241300,100:FF8500&height=5&section=header" width="90%"/>
 
-A complete MERN Stack blogging platform built using MongoDB, Express.js, React and Node.js.
+MongoDB Express.js React Node.js Authentication
 
-╭────────────────────────────────────────────────────────────╮
-│  📝 BLOG MANAGEMENT                                        │
-│  🔐 AUTHENTICATION                                         │
-│  👤 USER FUNCTIONALITY                                     │
-│  🗄️  MONGODB DATABASE                                      │
-│  ⚙️  NODE.JS BACKEND                                       │
-│  ⚛️  REACT FRONTEND                                        │
-│  🔌 API ARCHITECTURE                                       │
-╰────────────────────────────────────────────────────────────╯
+<br/>
 
-STACK
-
-MongoDB Express.js React Node.js
-
-<div align="center">
 <a href="https://bloghubed.netlify.app/">
-<img src="https://img.shields.io/badge/%F0%9F%93%9D%20LIVE%20PREVIEW-ff9d00?style=for-the-badge&labelColor=160d00" />
+<img src="https://img.shields.io/badge/%E2%86%92%20LIVE%20DEMO-FF9F1C?style=for-the-badge&labelColor=1A0E00" />
 </a>
-</div>
-
-📦 75+ PROJECTS BUILT
-
-<div align="center">
-
-╔══════════════════════════════════════════════════════════════╗
-║                                                              ║
-║                         75+                                  ║
-║                    PROJECTS BUILT                            ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
 
 </div>
 
-🌐  Full Stack Web Applications
-⚛️  React Applications
-🟢  Node.js Applications
-🐍  Python Projects
-🗄️  MongoDB Applications
-🌌  Three.js Experiments
-🎮  Browser Games
-🤖  AI / Web Experiments
-🎨  UI / UX Concepts
-🔌  API-Based Projects
-📊  Dashboards
-🛠️  Developer Tools
-🚀  Experimental Web Experiences
-
-🎯 CURRENT_FOCUS
-
-╭────────────────────────────────────────────────────────────╮
-│                                                            │
-│  ⚡  FULL STACK WEB DEVELOPMENT                            │
-│  ⚛️  REACT ECOSYSTEM                                      │
-│  🟢  NODE.JS BACKEND                                      │
-│  🗄️  MONGODB                                              │
-│  🐍  PYTHON DEVELOPMENT                                   │
-│  🌌  THREE.JS + 3D WEB                                    │
-│  🎨  MODERN UI / UX                                       │
-│  🚀  PRODUCTION DEPLOYMENT                                │
-│  🔍  SEO + PERFORMANCE                                    │
-│  🤖  AI-POWERED WEB EXPERIENCES                            │
-│                                                            │
-╰────────────────────────────────────────────────────────────╯
-
-💡 DEVELOPER_PHILOSOPHY
-
-const mindset = {
-
-    learn:
-        "Every project teaches something new",
-
-    build:
-        "Ideas become valuable when you build them",
-
-    improve:
-        "Write it better every time",
-
-    explore:
-        "Experiment with new technologies",
-
-    solve:
-        "Turn problems into working solutions",
-
-    ship:
-        "Build. Test. Deploy. Repeat."
-};
-
-🔥 DEVELOPMENT_JOURNEY
+75+ PROJECTS
 
 <div align="center">
 
-     💡 IDEA
-       │
-       ▼
-     🧠 PLAN
-       │
-       ▼
-     💻 BUILD
-       │
-       ▼
-     🧪 TEST
-       │
-       ▼
-     🚀 DEPLOY
-       │
-       ▼
-     📈 IMPROVE
-       │
-       └───────────────► 🔁 REPEAT
+<img src="https://img.shields.io/badge/75%2B-PROJECTS%20BUILT-9D4EDD?style=for-the-badge&labelColor=0B0612"/>
+<img src="https://img.shields.io/badge/FULL%20STACK-ENGINEERING-6C2BD9?style=for-the-badge&labelColor=0B0612"/>
+<img src="https://img.shields.io/badge/CREATIVE-WEB-7B2CBF?style=for-the-badge&labelColor=0B0612"/>
 
 </div>
 
-🤝 OPEN_TO
+FULL STACK APPLICATIONS     ████████████████████
+REACT PROJECTS              ██████████████████
+NODE.JS APPLICATIONS        ████████████████
+PYTHON PROJECTS             ██████████████
+MONGODB APPLICATIONS        █████████████
+THREE.JS EXPERIENCES        ████████████
+BROWSER GAMES               ███████████
+AI / WEB EXPERIMENTS        ██████████
+UI / UX CONCEPTS            █████████
+API / DASHBOARD PROJECTS    ████████
 
-┌──────────────────────────────────────────────────────────────┐
-│                                                              │
-│  💼  JOB OPPORTUNITIES                                      │
-│  🧑‍💻  FULL STACK DEVELOPER ROLES                           │
-│  🤝  COLLABORATIONS                                         │
-│  🚀  FREELANCE PROJECTS                                     │
-│  🌐  INTERESTING WEB PROJECTS                               │
-│  💡  STARTUP / PRODUCT IDEAS                                │
-│                                                              │
-└──────────────────────────────────────────────────────────────┘
+CURRENT FOCUS
 
 <div align="center">
+
+⚡ Full Stack
+
+🌌 3D Web
+
+🤖 AI Web
+
+React · Node.js · MongoDB
+
+Three.js · Interactive UI
+
+AI-powered Experiences
+
+</div>
+
+Currently Exploring
+
+React Ecosystem · Node.js · MongoDB · Python · Three.js · Modern UI/UX · Web Performance · SEO · AI
+
+BUILD PHILOSOPHY
+
+<div align="center">
+
+IDEA
+ ↓
+DESIGN
+ ↓
+BUILD
+ ↓
+TEST
+ ↓
+SHIP
+ ↓
+IMPROVE
+ ↺
+
+Learn → Build → Break → Fix → Ship → Repeat
+
+</div>
+
+OPEN TO
+
+<div align="center">
+
+💼 JOB OPPORTUNITIES   🤝 COLLABORATIONS   🚀 FREELANCE   💡 PRODUCT IDEAS
+
+<br/><br/>
 
 <a href="https://amitpandeysite.com">
-<img src="https://img.shields.io/badge/%F0%9F%8C%90%20VISIT%20MY%20PORTFOLIO-b967ff?style=for-the-badge&labelColor=080014" />
+<img src="https://img.shields.io/badge/%E2%96%B6%20ENTER%20MY%20PORTFOLIO-9D4EDD?style=for-the-badge&labelColor=0B0612" />
 </a>
 
 </div>
 
-📡 CONNECT_WITH_ME
+CONNECT
 
 <div align="center">
 
 <a href="mailto:ak253.com@gmail.com">
-<img src="https://img.shields.io/badge/%F0%9F%93%A7%20EMAIL-b967ff?style=for-the-badge&labelColor=080014" />
+<img src="https://img.shields.io/badge/EMAIL-ak253.com%40gmail.com-9D4EDD?style=for-the-badge&labelColor=0B0612&logo=gmail&logoColor=white" />
 </a>
 
- 
+<br/><br/>
 
 <a href="https://amitpandeysite.com">
-<img src="https://img.shields.io/badge/%F0%9F%8C%90%20PORTFOLIO-7c3aed?style=for-the-badge&labelColor=080014" />
+<img src="https://img.shields.io/badge/WEBSITE-amitpandeysite.com-6C2BD9?style=for-the-badge&labelColor=0B0612" />
 </a>
 
 </div>
+
+<br/>
 
 <div align="center">
 
-╔══════════════════════════════════════════════════════════════╗
-║                                                              ║
-║              ⚡ BUILD • CREATE • DEPLOY • REPEAT ⚡          ║
-║                                                              ║
-║       TURNING IDEAS INTO INTERACTIVE DIGITAL EXPERIENCES     ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0014,50:2a0b45,100:08000f&height=150&section=footer&animation=twinkling&text=BUILD%20%E2%80%A2%20CREATE%20%E2%80%A2%20DEPLOY%20%E2%80%A2%20REPEAT&fontSize=22&fontColor=ffffff" width="100%"/>
 
-SYSTEM STATUS: ONLINE 🟢
-
-Thanks for visiting my profile! 🚀
-
-<a href="https://amitpandeysite.com">
-<img src="https://img.shields.io/badge/ENTER%20AMIT.DEV-b967ff?style=for-the-badge&labelColor=080014" />
-</a>
+Turning ideas into interactive digital experiences.
 
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=140&section=footer&animation=twinkling" width="100%"/>
