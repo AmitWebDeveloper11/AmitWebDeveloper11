@@ -1,268 +1,293 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0014,50:2a0b45,100:08000f&height=240&section=header&text=Amit%20Web%20Developer&fontSize=46&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Python%20%7C%20Creative%20Web%20Experiences&descAlignY=58&descSize=17" width="100%"/>
-
 <a href="https://amitpandeysite.com">
-<img src="https://img.shields.io/badge/%E2%97%89%20OPEN%20TO%20WORK-9D4EDD?style=for-the-badge&labelColor=0B0612&logoColor=white" alt="Open to Work"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:09000f,45:1b0630,100:5b21b6&height=220&section=header&text=AMIT%20PANDEY&fontSize=54&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=FULL%20STACK%20WEB%20DEVELOPER&descAlignY=61&descSize=18" width="100%"/>
 </a>
 
-  
-
-<a href="https://amitpandeysite.com">
-<img src="https://img.shields.io/badge/%E2%9C%A6%20PORTFOLIO-6C2BD9?style=for-the-badge&labelColor=0B0612" alt="Portfolio"/>
-</a>
-
-<br/><br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=3000&pause=1000&color=C77DFF&center=true&vCenter=true&width=780&lines=Full+Stack+Web+Developer;Python+Developer;React+%2B+Node.js+%2B+MongoDB;Three.js+%2B+Interactive+Experiences;75%2B+Projects+Built;Turning+Ideas+Into+Digital+Experiences" alt="Typing SVG"/>
-
-</div>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2800&pause=900&color=C084FC&center=true&vCenter=true&width=760&lines=Building+modern+web+experiences+%E2%9A%A1;React+%2B+Node.js+%2B+MongoDB+%F0%9F%94%A5;Python+%7C+Three.js+%7C+Creative+UI;75%2B+Projects+Built+%F0%9F%9A%80;Turning+ideas+into+deployed+products" alt="Typing SVG"/>
 
 <br/>
 
+<a href="https://amitpandeysite.com">
+<img src="https://img.shields.io/badge/%E2%97%89%20OPEN%20TO%20WORK-9B5DE5?style=for-the-badge&labelColor=10051A" alt="Open to Work"/>
+</a>
+&nbsp;
+<a href="https://amitpandeysite.com">
+<img src="https://img.shields.io/badge/%E2%9C%A6%20VISIT%20PORTFOLIO-7B2CBF?style=for-the-badge&labelColor=10051A" alt="Portfolio"/>
+</a>
+
+</div>
+
+<div align="center">
+
+FULL STACK • CREATIVE WEB • 3D • AI
+
+</div>
+
 <table align="center">
 <tr>
-<td width="50%" valign="top">
+<td width="52%" valign="top">
 
-01 / PROFILE
+👋 Hey, I'm Amit
 
-Amit — Full Stack Web Developer focused on building modern, interactive and production-ready web experiences.
+I'm a Full Stack Web Developer who enjoys building things that are fast, modern, interactive and visually different.
 
-I enjoy working across the full stack — from polished interfaces and animations to APIs, databases and deployment.
+I work across the stack — from polished frontend experiences to backend APIs, databases and production deployment.
+
+Currently building: modern full-stack web experiences.
 
 </td>
-<td width="50%" valign="top">
+<td width="48%" valign="top">
 
-02 / QUICK SIGNAL
+⚡ Quick Stats
 
-┌──────────────────────────┐
-│ STATUS     ● ONLINE      │
-│ PROJECTS   75+           │
-│ FOCUS      FULL STACK    │
-│ BUILD      WEB / 3D / AI │
-│ MODE       SHIP IT       │
-└──────────────────────────┘
+
+
+
+
+🚀 Projects
+
+75+
+
+💻 Role
+
+Full Stack Developer
+
+🐍 Language
+
+Python
+
+⚛️ Frontend
+
+React / Vite
+
+🟢 Backend
+
+Node.js
+
+🗄️ Database
+
+MongoDB
+
+🌌 Creative
+
+Three.js / GSAP
 
 </td>
 </tr>
 </table>
 
-ABOUT
-
-I build things that look good, feel fast and actually work.
-
-My work combines full-stack engineering, creative UI, interactive experiences and modern web technologies. I like taking an idea from a rough concept to a deployed product.
-
-What I Build
-
-Full Stack Apps · Modern Websites · Interactive UI · 3D Web · APIs · Dashboards · Browser Games · AI Experiments
-
-TECH STACK
+🧬 Tech Arsenal
 
 <div align="center">
 
-LANGUAGES
-
-<img src="https://skillicons.dev/icons?i=python,js,ts,html,css&theme=dark" />
-
-<br/><br/>
-
-FRONTEND
-
-<img src="https://skillicons.dev/icons?i=react,vite,tailwind,threejs&theme=dark" />
-
-<br/><br/>
-
-BACKEND · DATABASE · TOOLS
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,git,github,vscode,vercel,netlify&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,js,ts,html,css,react,vite,tailwind,threejs,nodejs,express,mongodb,git,github,vscode,vercel,netlify&perline=9&theme=dark" />
 
 </div>
 
-FEATURED WORK
+🚀 Featured Projects
 
 <div align="center">
 
-🌌 COSMOS NEXUS
+<table>
+<tr>
 
-A futuristic cosmic web experience
+<td width="50%" valign="top">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:12001f,100:5a189a&height=5&section=header" width="90%"/>
+<h3>🌌 Cosmos Nexus</h3>
 
-Futuristic UI Interactive Experience Modern Web
+<p>Futuristic and immersive web experience inspired by space, cosmos and next-generation digital interfaces.</p>
 
-<br/>
+<p>
+<code>Interactive UI</code>
+<code>Modern Web</code>
+<code>Creative Dev</code>
+</p>
 
 <a href="https://tanstack-start-app.ak253-com.workers.dev/">
-<img src="https://img.shields.io/badge/%E2%86%92%20LIVE%20DEMO-9D4EDD?style=for-the-badge&labelColor=10051A" />
+<img src="https://img.shields.io/badge/LIVE%20DEMO-%E2%86%97-9B5DE5?style=for-the-badge&labelColor=10051A"/>
 </a>
 
-<br/><br/><br/>
+</td>
 
-🌐 INTERNET PLUS
+<td width="50%" valign="top">
 
-The Live Map of the Internet
+<h3>🌐 Internet Plus</h3>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00152b,100:0077b6&height=5&section=header" width="90%"/>
+<p><b>The Live Map of the Internet</b> — a futuristic global network visualization and immersive web experience.</p>
 
-Three.js 3D Globe Network Visualization Data Experience
-
-<br/>
+<p>
+<code>Three.js</code>
+<code>3D Globe</code>
+<code>Data Viz</code>
+</p>
 
 <a href="https://inplus.vercel.app/">
-<img src="https://img.shields.io/badge/%E2%86%92%20LIVE%20DEMO-00B4D8?style=for-the-badge&labelColor=03131F" />
+<img src="https://img.shields.io/badge/LIVE%20DEMO-%E2%86%97-00B4D8?style=for-the-badge&labelColor=03131F"/>
 </a>
 
-<br/><br/><br/>
+</td>
 
-🌑 DARK COMMUNITY
+</tr>
 
-A futuristic community platform
+<tr>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:180018,100:9D174D&height=5&section=header" width="90%"/>
+<td width="50%" valign="top">
 
-Community Platform Dark UI Full Stack Interactive Web
+<h3>🌑 Dark Community</h3>
 
-<br/>
+<p>A futuristic community platform built around a dark, modern and interactive digital ecosystem.</p>
+
+<p>
+<code>Full Stack</code>
+<code>Community</code>
+<code>Dark UI</code>
+</p>
 
 <a href="https://dark-community.onrender.com/">
-<img src="https://img.shields.io/badge/%E2%86%92%20LIVE%20DEMO-F72585?style=for-the-badge&labelColor=190013" />
+<img src="https://img.shields.io/badge/LIVE%20DEMO-%E2%86%97-F72585?style=for-the-badge&labelColor=190013"/>
 </a>
 
-<br/><br/><br/>
+</td>
 
-🚗 ROOVEXA
+<td width="50%" valign="top">
 
-A premium automotive web experience
+<h3>🚗 Roovexa</h3>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:001a12,100:00b86b&height=5&section=header" width="90%"/>
+<p>A premium automotive web experience focused on modern visuals, responsive design and smooth interactions.</p>
 
-Automotive Premium UI Responsive Modern Web
-
-<br/>
+<p>
+<code>React</code>
+<code>Automotive</code>
+<code>Premium UI</code>
+</p>
 
 <a href="https://roovexa.netlify.app/">
-<img src="https://img.shields.io/badge/%E2%86%92%20LIVE%20DEMO-00D084?style=for-the-badge&labelColor=03140E" />
+<img src="https://img.shields.io/badge/LIVE%20DEMO-%E2%86%97-00D084?style=for-the-badge&labelColor=03140E"/>
 </a>
 
-<br/><br/><br/>
+</td>
 
-📝 MERN BLOG
+</tr>
 
-A complete MERN stack blogging platform
+<tr>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:241300,100:FF8500&height=5&section=header" width="90%"/>
+<td width="50%" valign="top">
 
-MongoDB Express.js React Node.js Authentication
+<h3>📝 MERN Blog</h3>
+
+<p>Full-stack blogging platform built with MongoDB, Express.js, React and Node.js.</p>
+
+<p>
+<code>MongoDB</code>
+<code>Express</code>
+<code>React</code>
+<code>Node.js</code>
+</p>
+
+<a href="https://bloghubed.netlify.app/">
+<img src="https://img.shields.io/badge/LIVE%20DEMO-%E2%86%97-FF9F1C?style=for-the-badge&labelColor=1A0E00"/>
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3>✨ More Projects</h3>
+
+<p>75+ projects across full-stack applications, creative websites, browser games, APIs, dashboards, Python projects and experimental web experiences.</p>
+
+<p>
+<code>75+ BUILT</code>
+<code>ALWAYS BUILDING</code>
+</p>
+
+<a href="https://amitpandeysite.com">
+<img src="https://img.shields.io/badge/EXPLORE%20MY%20WORK-%E2%86%92-9B5DE5?style=for-the-badge&labelColor=10051A"/>
+</a>
+
+</td>
+
+</tr>
+</table>
+
+</div>
+
+🛠️ What I Build
+
+<table align="center">
+<tr>
+<td align="center">🌐<br/><b>Full Stack</b><br/>Web Apps</td>
+<td align="center">⚛️<br/><b>Frontend</b><br/>React / Vite</td>
+<td align="center">🟢<br/><b>Backend</b><br/>Node.js</td>
+<td align="center">🐍<br/><b>Python</b><br/>Development</td>
+</tr>
+<tr>
+<td align="center">🌌<br/><b>3D Web</b><br/>Three.js</td>
+<td align="center">🎨<br/><b>Creative UI</b><br/>Interactive UX</td>
+<td align="center">🔌<br/><b>APIs</b><br/>REST Services</td>
+<td align="center">🚀<br/><b>Deploy</b><br/>Vercel / Netlify</td>
+</tr>
+</table>
+
+🎯 Current Focus
+
+<div align="center">
+
+React · Node.js · MongoDB · Python · Three.js · GSAP · Modern UI/UX · Performance · SEO · AI Web Experiences
+
+</div>
+
+💡 Developer Mindset
+
+<div align="center">
+
+Learn → Build → Test → Ship → Improve
 
 <br/>
 
-<a href="https://bloghubed.netlify.app/">
-<img src="https://img.shields.io/badge/%E2%86%92%20LIVE%20DEMO-FF9F1C?style=for-the-badge&labelColor=1A0E00" />
-</a>
+"Ideas become valuable when you build them."
 
 </div>
 
-75+ PROJECTS
+🤝 Open To
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/75%2B-PROJECTS%20BUILT-9D4EDD?style=for-the-badge&labelColor=0B0612"/>
-<img src="https://img.shields.io/badge/FULL%20STACK-ENGINEERING-6C2BD9?style=for-the-badge&labelColor=0B0612"/>
-<img src="https://img.shields.io/badge/CREATIVE-WEB-7B2CBF?style=for-the-badge&labelColor=0B0612"/>
-
-</div>
-
-FULL STACK APPLICATIONS     ████████████████████
-REACT PROJECTS              ██████████████████
-NODE.JS APPLICATIONS        ████████████████
-PYTHON PROJECTS             ██████████████
-MONGODB APPLICATIONS        █████████████
-THREE.JS EXPERIENCES        ████████████
-BROWSER GAMES               ███████████
-AI / WEB EXPERIMENTS        ██████████
-UI / UX CONCEPTS            █████████
-API / DASHBOARD PROJECTS    ████████
-
-CURRENT FOCUS
-
-<div align="center">
-
-⚡ Full Stack
-
-🌌 3D Web
-
-🤖 AI Web
-
-React · Node.js · MongoDB
-
-Three.js · Interactive UI
-
-AI-powered Experiences
-
-</div>
-
-Currently Exploring
-
-React Ecosystem · Node.js · MongoDB · Python · Three.js · Modern UI/UX · Web Performance · SEO · AI
-
-BUILD PHILOSOPHY
-
-<div align="center">
-
-IDEA
- ↓
-DESIGN
- ↓
-BUILD
- ↓
-TEST
- ↓
-SHIP
- ↓
-IMPROVE
- ↺
-
-Learn → Build → Break → Fix → Ship → Repeat
-
-</div>
-
-OPEN TO
-
-<div align="center">
-
-💼 JOB OPPORTUNITIES   🤝 COLLABORATIONS   🚀 FREELANCE   💡 PRODUCT IDEAS
+💼 Job Opportunities   •   🤝 Collaborations   •   🚀 Freelance Projects   •   💡 Product Ideas
 
 <br/><br/>
 
 <a href="https://amitpandeysite.com">
-<img src="https://img.shields.io/badge/%E2%96%B6%20ENTER%20MY%20PORTFOLIO-9D4EDD?style=for-the-badge&labelColor=0B0612" />
+<img src="https://img.shields.io/badge/%E2%9A%A1%20LET'S%20BUILD%20SOMETHING%20GREAT-9B5DE5?style=for-the-badge&labelColor=10051A"/>
 </a>
 
 </div>
 
-CONNECT
+📡 Connect
 
 <div align="center">
 
 <a href="mailto:ak253.com@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-ak253.com%40gmail.com-9D4EDD?style=for-the-badge&labelColor=0B0612&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/EMAIL-ak253.com%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=16070A"/>
+</a>
+
+ 
+
+<a href="https://amitpandeysite.com">
+<img src="https://img.shields.io/badge/WEBSITE-amitpandeysite.com-9B5DE5?style=for-the-badge&labelColor=10051A"/>
 </a>
 
 <br/><br/>
 
-<a href="https://amitpandeysite.com">
-<img src="https://img.shields.io/badge/WEBSITE-amitpandeysite.com-6C2BD9?style=for-the-badge&labelColor=0B0612" />
-</a>
+<img src="https://komarev.com/ghpvc/?username=AmitWebDeveloper11&label=PROFILE%20VIEWS&color=9B5DE5&style=flat-square" alt="Profile Views"/>
 
 </div>
 
-<br/>
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0014,50:2a0b45,100:08000f&height=150&section=footer&animation=twinkling&text=BUILD%20%E2%80%A2%20CREATE%20%E2%80%A2%20DEPLOY%20%E2%80%A2%20REPEAT&fontSize=22&fontColor=ffffff" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:09000f,45:1b0630,100:5b21b6&height=130&section=footer&animation=twinkling&text=BUILD%20%E2%80%A2%20CREATE%20%E2%80%A2%20DEPLOY&fontSize=22&fontColor=ffffff" width="100%"/>
 
-Turning ideas into interactive digital experiences.
+Turning ideas into interactive digital experiences. 🚀
 
 </div>
