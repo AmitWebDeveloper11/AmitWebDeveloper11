@@ -63,15 +63,6 @@ DEVELOPER PROFILE
 🤖 Explore AI-powered web experiences and experimental projects
 
 🌐 Building and shipping real-world projects instead of just tutorials
-
-CURRENT MISSION
-
-Turn ideas into useful, beautiful and deployable digital products.
-
-Currently building: modern full-stack web experiences and exploring new ways to combine technology, creativity and interactive design.
-
-Open to: Job Opportunities · Full Stack Roles · Freelance Projects · Collaborations
-
 </td>
 <td width="48%" valign="top">
 
