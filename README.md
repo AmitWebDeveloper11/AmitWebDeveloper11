@@ -75,7 +75,7 @@ DEVELOPER PROFILE
 
 🚀 Projects
 
-75+
+81+
 
 💻 Role
 
