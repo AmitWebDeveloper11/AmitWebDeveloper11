@@ -40,7 +40,7 @@ I work across the complete stack — from polished frontend interfaces and anima
 
 DEVELOPER PROFILE
 
-🚀 75+ projects built across web development and creative experiments
+🚀 81+ projects built across web development and creative experiments
 
 💻 Full Stack Web Developer
 
