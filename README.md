@@ -174,22 +174,15 @@ Full-stack apps, creative websites, browser games, APIs, dashboards, Python proj
 
 <img src="./assets/divider.svg" width="100%"/>
 
-## Stats
+## `📈 GITHUB ANALYTICS`
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=AmitWebDeveloper11&show_icons=true&hide_border=true&bg_color=070707&title_color=B6FF00&text_color=cfcfcf&icon_color=B6FF00&ring_color=B6FF00&border_radius=8" alt="GitHub Stats"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmitWebDeveloper11&layout=compact&hide_border=true&bg_color=070707&title_color=B6FF00&text_color=cfcfcf&border_radius=8" alt="Top Languages"/>
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com/?user=AmitWebDeveloper11&background=070707&ring=B6FF00&fire=B6FF00&currStreakLabel=B6FF00&sideLabels=cfcfcf&currStreakNum=ffffff&sideNums=ffffff&dates=8a8a8a&hide_border=true&border_radius=8" alt="Streak"/>
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AmitWebDeveloper11&bg_color=070707&color=B6FF00&line=B6FF00&point=ffffff&area=true&area_color=B6FF00&hide_border=true&radius=8" width="100%" alt="Activity Graph"/>
+<img src="https://streak-stats.demolab.com/?user=AmitWebDeveloper11&background=0a0212&ring=9B5DE5&fire=F72585&currStreakLabel=00F5FF&sideLabels=C084FC&currStreakNum=ffffff&sideNums=ffffff&dates=9B5DE5&hide_border=true&border_radius=12" alt="Streak"/>
 
 </div>
+
+<img src="./assets/divider.svg" width="100%"/>
 
 ## `🎯 CURRENT FOCUS`
 
